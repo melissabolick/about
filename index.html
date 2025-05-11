@@ -17,11 +17,15 @@
   <meta name="twitterbot" content="noindex, nofollow, noarchive">
   <meta name="referrer" content="no-referrer">
   <meta name="format-detection" content="telephone=no, email=no">
-  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; style-src 'self' 'unsafe-inline'; font-src 'self';">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; style-src 'self' 'unsafe-inline'; font-src 'self'; img-src 'self'; script-src 'none'; connect-src 'self'; base-uri 'self'; form-action 'self';">
   <meta http-equiv="Permissions-Policy" content="geolocation=(), microphone=(), camera=()">
   <meta name="theme-color" content="#faf8f5">
   <link rel="icon" type="image/png" href="favicon.ico">
   <link rel="shortcut icon" href="favicon.ico">
+  <link rel="preload" href="/fonts/eb-garamond-v30-latin-regular.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="/fonts/eb-garamond-v30-latin-italic.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="/fonts/eb-garamond-v30-latin-500.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="/fonts/eb-garamond-v30-latin-500italic.woff2" as="font" type="font/woff2" crossorigin>
 
   <title>Melissa Bolick, DO Candidate</title>
 
@@ -56,7 +60,7 @@
     }
 
     body {
-      font-family: 'EB Garamond', serif;
+      font-family: 'EB Garamond', 'Garamond', 'Georgia', serif;
       background: #faf8f5;
       color: #333;
       padding: 2rem 1rem;
