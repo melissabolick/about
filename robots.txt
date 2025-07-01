@@ -13,261 +13,349 @@ Disallow: /
 
 User-agent: *
 Disallow: /
+DisallowAITraining: /
+Content-Usage: ai=n
 
 User-agent: AI2Bot
 Disallow: /
+DisallowAITraining: /
 
 User-agent: Ai2Bot-Dolma
 Disallow: /
+DisallowAITraining: /
 
 User-agent: aiHitBot
 Disallow: /
+DisallowAITraining: /
 
 User-agent: Amazonbot
 Disallow: /
+DisallowAITraining: /
 
 User-agent: Andibot
 Disallow: /
+DisallowAITraining: /
 
 User-agent: anthropic-ai
 Disallow: /
+DisallowAITraining: /
 
 User-agent: Applebot
 Disallow: /
+DisallowAITraining: /
 
 User-agent: Applebot-Extended
 Disallow: /
+DisallowAITraining: /
 
 User-agent: Awario
 Disallow: /
+DisallowAITraining: /
 
 User-agent: bedrockbot
 Disallow: /
+DisallowAITraining: /
 
 User-agent: Brightbot 1.0
 Disallow: /
+DisallowAITraining: /
 
 User-agent: Bytespider
 Disallow: /
+DisallowAITraining: /
 
 User-agent: CCBot
 Disallow: /
+DisallowAITraining: /
 
 User-agent: ChatGPT-User
 Disallow: /
+DisallowAITraining: /
 
 User-agent: Claude-SearchBot
 Disallow: /
+DisallowAITraining: /
 
 User-agent: Claude-User
 Disallow: /
+DisallowAITraining: /
 
 User-agent: Claude-Web
 Disallow: /
+DisallowAITraining: /
 
 User-agent: ClaudeBot
 Disallow: /
+DisallowAITraining: /
 
 User-agent: cohere-ai
 Disallow: /
+DisallowAITraining: /
 
 User-agent: cohere-training-data-crawler
 Disallow: /
+DisallowAITraining: /
 
 User-agent: Cotoyogi
 Disallow: /
+DisallowAITraining: /
 
 User-agent: Crawlspace
 Disallow: /
+DisallowAITraining: /
 
 User-agent: Datenbank Crawler
 Disallow: /
+DisallowAITraining: /
 
 User-agent: Devin
 Disallow: /
+DisallowAITraining: /
 
 User-agent: Diffbot
 Disallow: /
+DisallowAITraining: /
 
 User-agent: DuckAssistBot
 Disallow: /
+DisallowAITraining: /
 
 User-agent: Echobot Bot
 Disallow: /
+DisallowAITraining: /
 
 User-agent: EchoboxBot
 Disallow: /
+DisallowAITraining: /
 
 User-agent: FacebookBot
 Disallow: /
+DisallowAITraining: /
 
 User-agent: facebookexternalhit
 Disallow: /
+DisallowAITraining: /
 
 User-agent: Factset_spyderbot
 Disallow: /
+DisallowAITraining: /
 
 User-agent: FirecrawlAgent
 Disallow: /
+DisallowAITraining: /
 
 User-agent: FriendlyCrawler
 Disallow: /
+DisallowAITraining: /
 
 User-agent: Google-CloudVertexBot
 Disallow: /
+DisallowAITraining: /
 
 User-agent: Google-Extended
 Disallow: /
+DisallowAITraining: /
 
 User-agent: GoogleOther
 Disallow: /
+DisallowAITraining: /
 
 User-agent: GoogleOther-Image
 Disallow: /
+DisallowAITraining: /
 
 User-agent: GoogleOther-Video
 Disallow: /
+DisallowAITraining: /
 
 User-agent: GPTBot
 Disallow: /
+DisallowAITraining: /
 
 User-agent: iaskspider/2.0
 Disallow: /
+DisallowAITraining: /
 
 User-agent: ICC-Crawler
 Disallow: /
+DisallowAITraining: /
 
 User-agent: ImagesiftBot
 Disallow: /
+DisallowAITraining: /
 
 User-agent: img2dataset
 Disallow: /
+DisallowAITraining: /
 
 User-agent: ISSCyberRiskCrawler
 Disallow: /
+DisallowAITraining: /
 
 User-agent: Kangaroo Bot
 Disallow: /
+DisallowAITraining: /
 
 User-agent: meta-externalagent
 Disallow: /
+DisallowAITraining: /
 
 User-agent: Meta-ExternalAgent
 Disallow: /
+DisallowAITraining: /
 
 User-agent: meta-externalfetcher
 Disallow: /
+DisallowAITraining: /
 
 User-agent: Meta-ExternalFetcher
 Disallow: /
+DisallowAITraining: /
 
 User-agent: MistralAI-User
 Disallow: /
+DisallowAITraining: /
 
 User-agent: MistralAI-User/1.0
 Disallow: /
+DisallowAITraining: /
 
 User-agent: MyCentralAIScraperBot
 Disallow: /
+DisallowAITraining: /
 
 User-agent: NovaAct
 Disallow: /
+DisallowAITraining: /
 
 User-agent: OAI-SearchBot
 Disallow: /
+DisallowAITraining: /
 
 User-agent: omgili
 Disallow: /
+DisallowAITraining: /
 
 User-agent: omgilibot
 Disallow: /
+DisallowAITraining: /
 
 User-agent: Operator
 Disallow: /
+DisallowAITraining: /
 
 User-agent: PanguBot
 Disallow: /
+DisallowAITraining: /
 
 User-agent: Panscient
 Disallow: /
+DisallowAITraining: /
 
 User-agent: panscient.com
 Disallow: /
+DisallowAITraining: /
 
 User-agent: Perplexity-User
 Disallow: /
+DisallowAITraining: /
 
 User-agent: PerplexityBot
 Disallow: /
+DisallowAITraining: /
 
 User-agent: PetalBot
 Disallow: /
+DisallowAITraining: /
 
 User-agent: PhindBot
 Disallow: /
+DisallowAITraining: /
 
 User-agent: Poseidon Research Crawler
 Disallow: /
+DisallowAITraining: /
 
 User-agent: QualifiedBot
 Disallow: /
+DisallowAITraining: /
 
 User-agent: QuillBot
 Disallow: /
+DisallowAITraining: /
 
 User-agent: quillbot.com
 Disallow: /
+DisallowAITraining: /
 
 User-agent: SBIntuitionsBot
 Disallow: /
+DisallowAITraining: /
 
 User-agent: Scrapy
 Disallow: /
+DisallowAITraining: /
 
 User-agent: SemrushBot
 Disallow: /
+DisallowAITraining: /
 
 User-agent: SemrushBot-BA
 Disallow: /
+DisallowAITraining: /
 
 User-agent: SemrushBot-CT
 Disallow: /
+DisallowAITraining: /
 
 User-agent: SemrushBot-OCOB
 Disallow: /
+DisallowAITraining: /
 
 User-agent: SemrushBot-SI
 Disallow: /
+DisallowAITraining: /
 
 User-agent: SemrushBot-SWA
 Disallow: /
+DisallowAITraining: /
 
 User-agent: Sidetrade indexer bot
 Disallow: /
+DisallowAITraining: /
 
 User-agent: TikTokSpider
 Disallow: /
+DisallowAITraining: /
 
 User-agent: Timpibot
 Disallow: /
+DisallowAITraining: /
 
 User-agent: VelenPublicWebCrawler
 Disallow: /
+DisallowAITraining: /
 
 User-agent: WARDBot
 Disallow: /
+DisallowAITraining: /
 
 User-agent: Webzio-Extended
 Disallow: /
+DisallowAITraining: /
 
 User-agent: wpbot
 Disallow: /
+DisallowAITraining: /
 
 User-agent: YandexAdditional
 Disallow: /
+DisallowAITraining: /
 
 User-agent: YandexAdditionalBot
 Disallow: /
+DisallowAITraining: /
 
 User-agent: YouBot
 Disallow: /
+DisallowAITraining: /
